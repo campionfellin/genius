@@ -1,15 +1,23 @@
 
 
-# TODO
+# Commands
+
+## Login 
+
+Use this before any commands, putting in your Client Access Token from [here](https://genius.com/api-clients)
 
 * `genius login`
-    * prompts user for email / API key
+
+## Search
+
+Scroll down and find the song you want and hit enter to see the lyrics
 
 * `genius search --name "hello world"`
-    * can scroll down and hit enter to choose song
 * `genius search --artist "lil wayne"`
-    * can scroll down and hit enter to choose song
 * `genius search --name "hello world" --artist "lil wayne"`
+
+## Lyrics
+
+Get lyrics directly if you know the ID of the song you want
+
 * `genius lyrics --id 1234`
-    * can scroll down and hit enter to choose lyrics meaning
-* 
