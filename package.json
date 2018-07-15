@@ -1,5 +1,5 @@
 {
-  "name": "genius",
+  "name": "@campionfellin/genius",
   "version": "0.0.1",
   "description": "Genius CLI",
   "main": "index.js",

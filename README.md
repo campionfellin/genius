@@ -1,4 +1,8 @@
+# Install
 
+```sh
+    npm install @campionfellin/genius -g
+```
 
 # Commands
 
