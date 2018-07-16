@@ -1,3 +1,11 @@
+<h1 align="center">
+  <br>
+  genius
+  <br>
+</h1>
+
+<p align="center"><a href="https://travis-ci.org/campionfellin/genius"><img src="https://travis-ci.org/campionfellin/genius.svg?branch=master" alt="Build Status"></a>
+
 # Install
 
 ```sh
