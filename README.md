@@ -4,7 +4,8 @@
   <br>
 </h1>
 
-<p align="center"><a href="https://travis-ci.org/campionfellin/genius"><img src="https://travis-ci.org/campionfellin/genius.svg?branch=master" alt="Build Status"></a>
+<p align="center"><a href="https://travis-ci.org/campionfellin/genius"><img src="https://travis-ci.org/campionfellin/genius.svg?branch=master" alt="Build Status"></a> <a href="https://coveralls.io/github/campionfellin/genius"><img src="https://coveralls.io/repos/github/campionfellin/genius/badge.svg" alt="Coverage"></a>
+
 
 # Install
 
